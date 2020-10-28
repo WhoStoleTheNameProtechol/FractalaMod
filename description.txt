@@ -1,0 +1,8 @@
+The Fractala mod adds a bit of content. As of now, there isn't much, but eventually there will be. There are new darts, weapons, and a cool yoyo. Wanna help with production? Or just be apart of the community? I'm Protechol#8313, and here's the Discord link! https://discord.gg/tfjVSuH: Developers are Corgi#9712, Kirbygamer58556#2266, and Zweihand22#8921. 
+
+v1.0.2 - Added Two Flamethrowers, Tungsten, and Silver Variants. Probably gonna make a full flamethrower 'class'. Also fixed the rarities for most items.
+v1.0.3 - Added more Flamethrowers for different stages of the game, and they're craftable so you're good.
+v1.0.4 - Added more Flamethrowers, close to just making it a full class. 
+v1.0.5 - Fixes.
+v1.0.6  - More Fixes
+v1.07 - Even MORE Fixes

@@ -1,0 +1,4 @@
+displayName = Fractala Mod
+author = Protechol & The boys
+version = 1.0.7
+homepage = https://discord.gg/tfjVSuH
